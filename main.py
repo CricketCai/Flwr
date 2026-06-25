@@ -35,7 +35,7 @@ HTML = """
 <h3></h3>
 
 <div class="mini">
-  <iframe src="https://dashboard.uptimerobot.com/login?rt=true"></iframe>
+  <iframe src="https://flowr.fun"></iframe>
 </div>
 
 </body>
