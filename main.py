@@ -14,17 +14,17 @@ HTML = """
     }
 
     .mini {
-      width: 1920px;
-      height: 1080px;
+      width: 1000px;
+      height: 1000px;
       overflow: hidden;
       border: 1px solid #aaa;
       border-radius: 6px;
     }
 
     iframe {
-      width: 800px;
-      height: 600px;
-      transform: scale(0.25);
+      width: 1000px;
+      height: 1000px;
+      transform: scale(1);
       transform-origin: top left;
       border: none;
     }
@@ -35,7 +35,7 @@ HTML = """
 <h3></h3>
 
 <div class="mini">
-  <iframe src="https://www.google.com"></iframe>
+  <iframe src="https://dashboard.uptimerobot.com/login?rt=true"></iframe>
 </div>
 
 </body>
