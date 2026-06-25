@@ -14,8 +14,8 @@ HTML = """
     }
 
     .mini {
-      width: 200px;
-      height: 120px;
+      width: 1920px;
+      height: 1080px;
       overflow: hidden;
       border: 1px solid #aaa;
       border-radius: 6px;
@@ -32,10 +32,10 @@ HTML = """
 </head>
 <body>
 
-<h3>Mini Website Embed</h3>
+<h3></h3>
 
 <div class="mini">
-  <iframe src="https://example.com"></iframe>
+  <iframe src="https://www.google.com"></iframe>
 </div>
 
 </body>
